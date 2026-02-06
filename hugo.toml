@@ -1,6 +1,6 @@
 baseURL = 'https://pcescato.github.io/hugodemo/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Atomic Jamstack Connector'
 theme = 'PaperMod'
 canonifyURLs = true
 relativeURLs = false
