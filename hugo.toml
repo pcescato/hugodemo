@@ -1,6 +1,6 @@
 baseURL = 'https://pcescato.github.io/hugodemo/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'anatole'
+theme = 'PaperMod'
 canonifyURLs = false
-relativeURLs = true
+relativeURLs = false
