@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 date: "2026-02-05T19:50:22+00:00"
-lastmod: "2026-02-06T18:03:57+00:00"
+lastmod: "2026-02-06T18:05:13+00:00"
 draft: false
 description: "Who we are Suggested text: Our website address is: http://githubcopilotchallenge.tsw.ovh. Comments Suggested text: When visitors leave comments on the site we collect the data shown in the comments form, and..."
 author: githubcopilotchallenge
@@ -9,7 +9,7 @@ author: githubcopilotchallenge
 
 ## Who we are
 
-**Suggested text:** Our website address is: http://githubcopilotchallenge.tsw.ovh.
+<figure class="wp-block-image size-large">![](/images/3/019a2f73-a181-7dcc-bcdf-050d0bb51814_0-683x1024.webp)</figure>**Suggested text:** Our website address is: http://githubcopilotchallenge.tsw.ovh.
 
 ## Comments
 
@@ -27,7 +27,7 @@ An anonymized string created from your email address (also called a hash) may be
 
 If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
 If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
