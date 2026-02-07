@@ -1,7 +1,7 @@
 ---
 title: "Écrire dans WordPress, publier en statique : retour sur un workflow automatisé"
 date: "2026-02-07T12:40:15+00:00"
-lastmod: "2026-02-07T13:29:18+00:00"
+lastmod: "2026-02-07T16:03:51+00:00"
 draft: false
 description: "Développement d'un plugin permettant d'écrire dans WordPress tout en publiant automatiquement un site statique sur GitHub, optimisant ainsi le flux de travail sans intervention manuelle. Ce projet illustre comment une conception humaine, associée à des outils comme GitHub Copilot CLI, peut accélérer l'exécution et améliorer l'expérience d'écriture."
 categories:
