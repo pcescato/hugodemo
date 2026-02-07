@@ -1,12 +1,16 @@
 ---
 title: "Écrire dans WordPress, publier en statique : retour sur un workflow automatisé"
 date: "2026-02-07T12:40:15+00:00"
-lastmod: "2026-02-07T12:40:15+00:00"
+lastmod: "2026-02-07T13:29:18+00:00"
 draft: false
-description: "Il y a une tension que beaucoup de personnes qui écrivent en ligne connaissent bien. Les générateurs de sites statiques sont rapides, élégants, légers et faciles à déployer presque partout...."
+description: "Développement d'un plugin permettant d'écrire dans WordPress tout en publiant automatiquement un site statique sur GitHub, optimisant ainsi le flux de travail sans intervention manuelle. Ce projet illustre comment une conception humaine, associée à des outils comme GitHub Copilot CLI, peut accélérer l'exécution et améliorer l'expérience d'écriture."
 categories:
   - Uncategorized
 author: githubcopilotchallenge
+image: /images/1438/featured.webp
+image_formats:
+  - /images/1438/featured.webp
+  - /images/1438/featured.avif
 ---
 
 Il y a une tension que beaucoup de personnes qui écrivent en ligne connaissent bien.
