@@ -1,10 +1,11 @@
 ---
+
 title: "Tester first Post"
 date: 2026-02-08T00:44:32+00:00
 cover:
-  image: "images/1452/featured.avif"
+  image: "images/1452/featured.avif"  # Utilisation de 1452 au lieu de tester-first-post
   alt: "Tester first Post"
-  relative: false
+
 ---
 
 Here is a post.–
