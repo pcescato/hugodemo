@@ -92,7 +92,7 @@ Just writing. Just publishing.
 
 Want to see this in action?
 
-1. **Write a post** in the [demo WordPress](https://githubcopilotchallenge.tsw.ovh/) (login: `tester` / `Github~Challenge/2k26`)
+1. **Write a post** in the [demo WordPress](https://githubcopilotchallenge.tsw.ovh/wp-admin/) (login: `tester` / `Github~Challenge/2k26`)
 2. **Hit “Publish”**
 3. **Watch it appear** on the [live Hugo site](https://pcescato.github.io/hugodemo/) in seconds
 
