@@ -10,4 +10,4 @@ cover:
 
 ![](/images/1517/analyse-de-donnees-1024x681.webp)
 
-Hello everybody! Hi and have a nice day!
+Hello everybody! Hi and have a nice day! 🙂
