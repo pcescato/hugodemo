@@ -8,6 +8,6 @@ cover:
 
 ---
 
-![](/images/1517/analyse-de-donnees-1024x681.webp)
+![Test image](/images/1517/analyse-de-donnees-1024x681.webp)
 
 Hello everybody! Hi and have a nice day! 🙂
