@@ -1,6 +1,6 @@
 baseURL = 'https://pcescato.github.io/hugodemo/'
 languageCode = 'en-us'
-title = 'Atomic Jamstack Connector'
+title = 'AJC Bridge'
 theme = 'PaperMod'
 canonifyURLs = true
 relativeURLs = false
