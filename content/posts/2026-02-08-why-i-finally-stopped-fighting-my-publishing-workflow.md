@@ -67,7 +67,7 @@ And that’s exactly how it should be.
 
 ---
 
-*This post was automatically synced from WordPress to Hugo using the [Atomic Jamstack Connector](https://github.com/pcescato/atomic-jamstack-connector). The entire workflow — conversion, optimization, commit, and deployment — happened in under 30 seconds.*
+*This post was automatically synced from WordPress to Hugo using the* [AJC Bridge](https://github.com/pcescato/ajc-bridge)*. The entire workflow — conversion, optimization, commit, and deployment — happened in under 30 seconds.*
 
 *Want to know how it works? Read the full story: [Actually Static: When WordPress Stops Being the Enemy](https://dev.to/pascal_cescato_692b7a8a20/actually-static-when-wordpress-stops-being-the-enemy-INSERT_POST_ID)*
 
@@ -98,7 +98,7 @@ Want to see this in action?
 
 **See the commits**: Check out [the Hugo repository](https://github.com/pcescato/hugodemo) to see the Markdown files, optimized images, and GitHub Actions workflow in action.
 
-**Get the plugin**: [github.com/pcescato/atomic-jamstack-connector](https://github.com/pcescato/atomic-jamstack-connector)
+**Get the plugin**: <https://github.com/pcescato/ajc-bridge>
 
 ---
 
